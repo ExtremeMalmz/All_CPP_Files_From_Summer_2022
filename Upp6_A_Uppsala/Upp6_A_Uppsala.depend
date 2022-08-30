@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1661523250 source:c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<typeinfo>
+	<algorithm>
+	"Person1.h"
+	"PersonLista1.h"
+	"Transaktion1.h"
+	"TransaktionsLista1.h"
+
+1658917164 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\adder.h
+	<iostream>
+
+1658917190 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\realadder.h
+	<iostream>
+
+1658919112 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\deathadder.h
+	<iostream>
+
+1660124202 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\person.h
+	<iostream>
+
+1660124302 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\personlista.h
+	<iostream>
+	<cmath>
+
+1660124345 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\transaktionslista.h
+	<iostream>
+	<string>
+	<fstream>
+
+1660051851 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\transaktion.h
+
+1661523083 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\person1.h
+	<iostream>
+
+1661523088 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\personlista1.h
+	<iostream>
+	<cmath>
+
+1661523092 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\transaktion1.h
+
+1661523098 c:\users\ericm\documents\university\uppsala c++\upp6_a_uppsala\transaktionslista1.h
+	<iostream>
+	<string>
+	<fstream>
+

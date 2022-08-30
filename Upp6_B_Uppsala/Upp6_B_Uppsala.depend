@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1660221797 source:c:\users\ericm\documents\university\uppsala c++\upp6_b_uppsala\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<typeinfo>
+	<algorithm>
+	"Person.h"
+	"PersonLista.h"
+	"Transaktion.h"
+	"TransaktionsLista.h"
+
+1660131082 c:\users\ericm\documents\university\uppsala c++\upp6_b_uppsala\person.h
+	<iostream>
+
+1660247988 c:\users\ericm\documents\university\uppsala c++\upp6_b_uppsala\personlista.h
+	<iostream>
+	<cmath>
+	<vector>
+
+1660242235 c:\users\ericm\documents\university\uppsala c++\upp6_b_uppsala\transaktion.h
+
+1660242235 c:\users\ericm\documents\university\uppsala c++\upp6_b_uppsala\transaktionslista.h
+	<iostream>
+	<string>
+	<fstream>
+

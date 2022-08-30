@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658406236 source:c:\users\ericm\documents\university\uppsala c++\uppgift_5_b\main.cpp
+	<string>
+	<cctype>
+	<iostream>
+	<fstream>
+	<cmath>
+	<algorithm>
+
